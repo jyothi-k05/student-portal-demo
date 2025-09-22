@@ -1,6 +1,4 @@
-Name :
-Student ID :
-Section :
-Attendance :
-Fee Details :
-Academics :
+Name : Jyothi Kottapalli
+Student ID : 237104071
+Section : B.Sc AI
+Attendance : 90
